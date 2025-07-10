@@ -47,9 +47,9 @@ pip install requirements.txt
 NOTE:
 	*)the final output is piped into 'less' text viewer
         *)If you see Could not load image, check your path and file extension.
+
 ⚙️ Customization Options:
 
-	You can tweak these values directly in the script:
-
-		width: default is 110 (adjust for wider or smaller terminal)
-		background_threshold: default is 245 (lower this if white areas aren't removed)
+You can tweak these values directly in the script:
+width: default is 110 (adjust for wider or smaller terminal)
+background_threshold: default is 245 (lower this if white areas aren't removed)
