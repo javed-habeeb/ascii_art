@@ -11,6 +11,8 @@ A simple command-line tool that converts images into ASCII art using Python and 
 - Smart resizing for terminal fit
 - Scrollable output using `less`
 - Works inside WSL or any UNIX-style terminal
+- Now supports ANSI 256-color grayscale rendering(optional,uses 'less -R')
+- width adjustable
 
 --
 

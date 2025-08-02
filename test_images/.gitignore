@@ -1,0 +1,9 @@
+#ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.svg
+
+#but keep this file to make the folder tracked
+!.gitkeep
